@@ -1,0 +1,48 @@
+ADDING PRODUCTS TO EARNERS
+
+1. Open products.json. It contains all current products as a JSON array.
+2. Copy an existing object and add it before the final closing ].
+   Separate objects with commas. JSON uses double quotes and no trailing commas.
+3. Put the product photo in the images folder.
+4. Open a terminal in this project folder and run:
+
+   node build-products.js
+
+5. Refresh the browser. When publishing, upload the updated index.html and images.
+
+Example product object (replace the example values before building):
+
+{
+  "name": "Your product name",
+  "category": "home",
+  "url": "https://amzn.to/YOUR_AFFILIATE_LINK",
+  "image": "images/your-product.jpg",
+  "alt": "A short description of the product photo",
+  "description": "Helpful product details and buying advice.",
+  "badge": "NEW FIND",
+  "lifestyleImage": false
+}
+
+Required fields: name, category, url, image, alt, description.
+Built-in categories: bedding, drinkware, home, clothing, beauty.
+New categories are supported automatically: for example automotive or pet-supplies.
+Use lowercase letters and numbers, with single hyphens between words; start
+with a letter. The value "all" is reserved for the All finds filter.
+The build generates new filter buttons, product labels, and SEO topics.
+You do not need to edit build-products.js or index.html to add a category.
+Optional: badge (text), lifestyleImage (true for a cropped, full-bleed photo;
+false or omitted to show the whole product image).
+Use an HTTPS amzn.to or amazon.com affiliate link.
+Image values are website URLs: use images/filename.jpg with forward slashes.
+
+Array order controls the Featured order. Search, sorting, and category filters
+automatically include all generated products. The build also updates counts
+and the SEO ItemList. Products remain available without browser JavaScript.
+With JavaScript enabled, the shop shows 16 products per page. Previous and Next
+appear when results exceed 16. Searching, filtering, or sorting returns to page 1.
+Without JavaScript, all products remain visible for browsing and search engines.
+Node.js is required only to build, not on your web host. No packages are needed.
+
+Do not edit generated cards between PRODUCTS:START and PRODUCTS:END in index.html.
+The hero spotlight and collection cover images are separate editorial content
+in index.html; changing the product array does not change those features.
