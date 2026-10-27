@@ -353,12 +353,175 @@
     "lifestyleImage": false
     },
     {
-      "name": "Mellon Collie And The Infinite Sadness",
-      "category": "music",
-      "url": "https://link.amazon/B095elRce",
-      "image": "images/mellon_collie_and_the_infinite_sadness.jpg",
-      "alt": "Mellon Collie And The Infinite Sadness",
-      "description": "The third studio album by American rock band The Smashing Pumpkins, released in 1995. A double album featuring a wide range of musical styles.",
+      "name": "Furniture of America Sebras Modern Chenille 30.3-inch Accent Chair with Zebra-Stripe, Cylindrical Backrest for Living Room, Orange",
+      "category": "furniture",
+      "url": "https://link.amazon/B0bN0i1bO",
+      "image": "images/furniture_of_america_sebras_modern_chenille_30_3_inch_accent_chair_with_zebra_stripe.jpg",
+      "alt": "Furniture of America Sebras Modern Chenille 30.3-inch Accent Chair with Zebra-Stripe, Cylindrical Backrest for Living Room, Orange",
+      "description": "A stylish and modern chenille accent chair with a zebra-stripe pattern and cylindrical backrest, perfect for adding a touch of elegance to your living room.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Luxury Fluffy Faux Fur Throw Blanket,Thick Fluffy Silky Fuzzy Cozy Blanket,Plush Blankets for Couch, Sofa, Chair, Bed-Tiger Print Brown-50 * 60inch",
+      "category": "home",
+      "url": "https://link.amazon/B0iHYlcmq",
+      "image": "images/luxury_fluffy_faux_fur_throw_blanket_tiger_print_brown_50_60inch.jpg",
+      "alt": "Luxury Fluffy Faux Fur Throw Blanket,Thick Fluffy Silky Fuzzy Cozy Blanket,Plush Blankets for Couch, Sofa, Chair, Bed-Tiger Print Brown-50 * 60inch",
+      "description": "A luxurious and cozy faux fur throw blanket with a thick, fluffy, and silky texture. Perfect for adding warmth and style to your couch, sofa, chair, or bed.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Trycooling Hand Painted Tiger Skin Ceramic Jewelry Dish, Gold",
+      "category": "home",
+      "url": "https://link.amazon/B070rRdVn",
+      "image": "images/trycooling_hand_painted_tiger_skin_ceramic_jewelry_dish_gold.jpg",
+      "alt": "Trycooling Hand Painted Tiger Skin Ceramic Jewelry Dish, Gold",
+      "description": "A beautifully hand-painted ceramic jewelry dish with a tiger skin pattern and gold accents. Perfect for organizing and displaying your jewelry in style.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Tortoise Shell Drinking Glasses Set of 4, Brown Decorative Tortoise Shell Tumbler Cups for Wine & Drinks，Drinking Glasses for Wedding Gifts, Housewarming, Cocktail Party (6, 10oz)",
+      "category": "home",
+      "url": "https://link.amazon/B06SAjguT",
+      "image": "images/tortoise_shell_drinking_glasses.jpg",
+      "alt": "Tortoise Shell Drinking Glasses Set of 4, Brown Decorative Tortoise Shell Tumbler Cups for Wine & Drinks，Drinking Glasses for Wedding Gifts, Housewarming, Cocktail Party (6, 10oz)",
+      "description": "A set of 4 stylish tortoise shell drinking glasses, perfect for wine and other beverages. Ideal for weddings, housewarming parties, and cocktail events.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Cozy Bliss Deer Print Faux Fur Throw Blanket,50\"×60\", Brown Deer",
+      "category": "home",
+      "url": "https://link.amazon/B01J36kIZ",
+      "image": "images/cozy_bliss_deer_print_faux_fur_throw_blanket_50x60_brown_deer.jpg",
+      "alt": "Cozy Bliss Deer Print Faux Fur Throw Blanket,50\"×60\", Brown Deer",
+      "description": "A cozy faux fur throw blanket featuring a charming deer print. Perfect for adding warmth and style to your living space.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Kmax Cow Print Accent Chair Velvet Wingback Chair with Pillow Nail-Head Channel Tufted Oversized Club Chair for Living Room Bedroom Guest Room",
+      "category": "home",
+      "url": "https://link.amazon/B0fg4mwqN",
+      "image": "images/club_chair_for_living_room_bedroom_guest_room.jpg",
+      "alt": "Kmax Cow Print Accent Chair Velvet Wingback Chair with Pillow Nail-Head Channel Tufted Oversized Club Chair for Living Room Bedroom Guest Room",
+      "description": "A stylish and comfortable cow print accent chair with velvet upholstery, wingback design, and nail-head channel tufting. Perfect for living rooms, bedrooms, and guest rooms.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Deer Print Faux Fur Throw Pillow Covers 18x18 Animal Print Pillowcases",
+      "category": "home",
+      "url": "https://link.amazon/B0f94YOXE",
+      "image": "images/animal_print_pillowcases.jpg",
+      "alt": "Deer Print Faux Fur Throw Pillow Covers 18x18 Animal Print Pillowcases",
+      "description": "A set of stylish deer print faux fur throw pillow covers, perfect for adding a touch of elegance and comfort to your living space.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Frye Campus 14L Women's Knee-High Boots, Leather Lined, Goodyear Welt",
+      "category": "fashion",
+      "url": "https://link.amazon/B0dZHXCYq",
+      "image": "images/frye_campus_14l_womens_knee_high_boots_leather_lined_goodyear_welt.jpg",
+      "alt": "Frye Campus 14L Women's Knee-High Boots, Leather Lined, Goodyear Welt",
+      "description": "Stylish and durable women's knee-high boots with leather lining and Goodyear welt construction, perfect for both casual and formal occasions.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Sam Edelman Women's Paige Booties",
+      "category": "fashion",
+      "url": "https://link.amazon/B05f7bxgK",
+      "image": "images/sam_edelman_womens_paige_booties.jpg",
+      "alt": "Sam Edelman Women's Paige Booties",
+      "description": "Chic and versatile women's booties with a comfortable fit, perfect for both casual and dressy occasions.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Michael Kors Women's Beverly Flat Boot",
+      "category": "fashion",
+      "url": "https://link.amazon/B055LMLoT",
+      "image": "images/michael_kors_womens_beverly_flat_boot.jpg",
+      "alt": "Michael Kors Women's Beverly Flat Boot",
+      "description": "Elegant and comfortable women's flat boots from Michael Kors, perfect for everyday wear and casual outings.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Michael Kors Women's Beverly Flat Boot",
+      "category": "fashion",
+      "url": "https://link.amazon/B055LMLoT",
+      "image": "images/michael_kors_womens_beverly_flat_boot.jpg",
+      "alt": "Michael Kors Women's Beverly Flat Boot",
+      "description": "Elegant and comfortable women's flat boots from Michael Kors, perfect for everyday wear and casual outings.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Michael Kors Women's Beverly Flat Boot",
+      "category": "fashion",
+      "url": "https://link.amazon/B04bUwmRg",
+      "image": "images/michael_kors_womens_beverly.jpg",
+      "alt": "Michael Kors Women's Beverly Flat Boot",
+      "description": "Elegant and comfortable women's flat boots from Michael Kors, perfect for everyday wear and casual outings.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Dolce Vita Women's Nedi Booties",
+      "category": "fashion",
+      "url": "https://link.amazon/B0b8kKmSz",
+      "image": "images/dolce_vita_womens_nedi_booties.jpg",
+      "alt": "Dolce Vita Women's Nedi Booties",
+      "description": "Stylish and comfortable women's booties from Dolce Vita, perfect for both casual and dressy occasions.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Michael Kors Women's Fringed Suede Jacket",
+      "category": "fashion",
+      "url": "https://link.amazon/B06IlZiKg",
+      "image": "images/michael_kors_womens_fringed_suede_jacket.jpg",
+      "alt": "Michael Kors Women's Fringed Suede Jacket",
+      "description": "Stylish and elegant women's fringed suede jacket from Michael Kors, perfect for adding a chic touch to any outfit.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "[BLANKNYC] Women's Maple Sugar Faux Suede Fringe Jacket",
+      "category": "fashion",
+      "url": "https://link.amazon/B09np0UgV",
+      "image": "images/blanknyc_womens_maple_sugar_faux_suede_fringe_jacket.jpg",
+      "alt": "[BLANKNYC] Women's Maple Sugar Faux Suede Fringe Jacket",
+      "description": "Chic and stylish women's faux suede fringe jacket from [BLANKNYC], perfect for adding a trendy touch to any outfit.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Madewell The Essential Curve Medium Shoulder Bag in Fringed Suede",
+      "category": "fashion",
+      "url": "https://link.amazon/B0fiuwjYt",
+      "image": "images/madewell_the_essential_curve_medium_shoulder_bag_in_fringed_suede.jpg",
+      "alt": "Madewell The Essential Curve Medium Shoulder Bag in Fringed Suede",
+      "description": "Elegant and stylish medium shoulder bag from Madewell, crafted in fringed suede, perfect for adding a chic touch to any outfit.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "18K Gold Plated Irregular Pendant Chunky Statement Necklace for Women",
+      "category": "fashion",
+      "url": "https://link.amazon/B04f8LEAl",
+      "image": "images/18k_gold_plated_irregular_pendant_chunky_statement_necklace_for_women.jpg",
+      "alt": "18K Gold Plated Irregular Pendant Chunky Statement Necklace for Women",
+      "description": "Elegant and stylish 18K gold plated irregular pendant chunky statement necklace for women, perfect for adding a bold touch to any outfit.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Chunky Heart Necklace for Women14K Gold Plated Chunky Chain Necklaces Trendy Heart Pendant Necklace Toggle Clasp Statement Jewelry Gift for for Women",
+      "category": "fashion",
+      "url": "https://link.amazon/B0dhLlmBa",
+      "image": "images/chunky_heart_necklace_for_women14k_gold_plated_chunky.jpg",
+      "alt": "Chunky Heart Necklace for Women14K Gold Plated Chunky Chain Necklaces Trendy Heart Pendant Necklace Toggle Clasp Statement Jewelry Gift for for Women",
+      "description": "Elegant and stylish chunky heart necklace for women, 14K gold plated chunky chain necklaces with trendy heart pendant, toggle clasp, perfect as a statement jewelry gift.",
+      "lifestyleImage": false
+    },
+    {
+      "name": "Paracord Rope Cord Necklace for Women Trendy Natural Stone Charm Jewelry",
+      "category": "fashion",
+      "url": "https://link.amazon/B01jDvXvA",
+      "image": "images/paracord_rope_cord_necklace_for_women_trendy_natural_stone_charm_jewelry.jpg",
+      "alt": "Paracord Rope Cord Necklace for Women Trendy Natural Stone Charm Jewelry",
+      "description": "Elegant and stylish paracord rope cord necklace for women, featuring trendy natural stone charm, perfect for adding a unique touch to any outfit.",
       "lifestyleImage": false
     }
+
 ]
